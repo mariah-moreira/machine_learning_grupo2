@@ -25,17 +25,27 @@ Para auxiliar no desenvolvimento do projeto, vamos separar em algumas seções, 
 Escolhemos os seguintes modelos para análise de performance:
 
 Decision Tree
+
 Random Forest
+
 AdaBoost
+
 Gradient Boosting
+
 XGBoost
+
 LightGBM
 
 Para comparar esses modelos utilizamos as seguintes metricas:
+
 Acurácia
+
 Precisão
+
 Recall
+
 F1-Score
+
 ROC-AUC;
 
 - __Otimização do Modelo__: A partir do modelo escolhido no tópico anterior, vamos tentar aprimorar e garantir um melhor desempenho no modelo, seja fazendo validação cruzada, otimização de parâmetros com _GridSearchCV_ ou _RandomizedSearchCV_ e até mesmo testar diferentes _thresholds_ (ao invés de utilizar a função _predict_ do modelo, utilize a função _predict_proba_ do modelo e a partir das probabilidades determinar qual vai ser o limiar onde será considerado um caso positivo ou negativo);
