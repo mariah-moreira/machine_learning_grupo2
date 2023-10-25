@@ -1,11 +1,11 @@
 # Repositório - Projeto Machine Learning I - Santander Coders 2023
 
 __Equipe:__
-Ingrid Guimarães
-Maria Gabrielly A. Santana
-Desiree Gomes
-Lucas Cruz
-Mariah Moreira
+Ingrid Guimarães,
+Maria Gabrielly A. Santana,
+Desiree Gomes,
+Lucas Cruz,
+Mariah Moreira.
 
 O objetivo do projeto foi desenvolver um estudo baseado em um conjunto de dados (dataset) do [Kaggle](https://www.kaggle.com/).
 
